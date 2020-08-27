@@ -72,6 +72,7 @@ nav{
 
 .blog-link{
   text-decoration: none;
+  cursor: default;
 }
 
 .card {
